@@ -39,7 +39,7 @@ const VideoCard = ({ item }) => {
               <img
                 className="h-full w-full object-cover"
                 src={
-                  "https://yt3.googleusercontent.com/zfKRhLnrKWwBUWuyYV2l0KrXGiEbrOikvpXIQb-IGRrEE1T2qBuNRfaUnnBhBmkn0uddqxUY=s88-c-k-c0x00ffffff-no-rj"
+                  "/ashishcodes.jpg"
                 }
               />
             </div>
